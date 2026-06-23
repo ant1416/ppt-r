@@ -41,3 +41,82 @@ Justificación:
 
 ## Datos y variables
 
+::::: columns
+::: {.column width="35%"}
+### Variable dependiente
+
+**Satisfacción con la democracia (P11STGBS.A)**
+
+-   Muy satisfecho
+-   Más bien satisfecho
+-   No muy satisfecho
+-   Nada satisfecho
+:::
+
+::: {.column width="65%"}
+### Variables independientes
+
+**Edad (EDAD)**
+
+-   Variable numérica continua.
+
+**Sexo (SEXO)**
+
+-   Hombre o mujer
+
+**Nivel educativo (S11)** - Sin estudios - Básica - Media - Superior
+:::
+:::::
+
+## Descripción de la muestra
+
+::::: columns
+::: {.column width="50%"}
+### Características generales
+
+-   **N = 1.174** casos válidos
+-   **Edad promedio:** 42,9 años
+-   **Desv. estándar:** 16,9 años
+-   **Rango:** 18 a 90 años
+:::
+
+::: {.column width="50%"}
+### Composición de la muestra
+
+-   **Mujeres:** 51,8%
+
+-   **Hombres:** 48,2%
+
+-   Nivel educativo promedio: **12,8 puntos**
+
+-   Desv. estándar: **3,2 puntos**
+:::
+:::::
+
+## Satisfacción con la democracia
+
+### Hallazgo principal
+
+![](images/unnamed-chunk-3-2.png){width="80%"}
+
+-   El 61,9% de los encuestados se declara **no muy satisfecho** o **nada satisfecho** con la democracia.
+-   Solo el 8,0% se encuentra **muy satisfecho**.
+
+## Satisfacción con la democracia según sexo
+
+![](images/Captura de pantalla 2026-06-23 134713-01.png)
+
+## Resultado
+
+-   Hombres y mujeres presentan patrones muy similares.
+-   La categoría más frecuente en ambos grupos es *"No muy satisfecho"*.
+-   No se observan diferencias relevantes entre sexos.
+
+### Prueba Chi-cuadrado
+
+-   χ² = 4,41
+-   gl = 3
+-   p = 0,221
+*Conclusión:* No existe asociación estadísticamente significativa entre sexo y satisfacción con la democracia.
+
+
