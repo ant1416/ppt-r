@@ -7,22 +7,37 @@ editor: visual
 
 ## Introduccion
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
 Contexto:
 
-- Creciente polarización política en América Latina.
-- Elección de Javier Milei en Argentina (2023).
-- Cuestionamientos a las instituciones democráticas.
+-   Creciente polarización política en América Latina.
+-   Elección de Javier Milei en Argentina (2023).
+-   Cuestionamientos a las instituciones democráticas.
 :::
 
 ::: {.column width="50%"}
 Justificación:
 
-- La satisfacción con la democracia permite evaluar la legitimidad percibida del sistema democrático.
-- Analizar diferencias según edad, sexo y nivel educativo.
-- Uso de datos del Latinobarómetro 2023 para el caso argentino.
+-   La satisfacción con la democracia permite evaluar la legitimidad percibida del sistema democrático.
+-   Analizar diferencias según edad, sexo y nivel educativo.
+-   Uso de datos del Latinobarómetro 2023 para el caso argentino.
+:::
+:::::
+
+## Pregunta e hipotesis
+
+::::: columns
+::: {.column width="60%"}
+-   ¿Cómo se distribuye la satisfacción con la democracia según variables sociodemográficas (edad, sexo y nivel educativo) en Argentina (2023)?
+
+-La satisfacción con la democracia se distribuye de manera diferenciada según variables sociodemográficas (edad, sexo y nivel educativo) en Argentina (2023).
 :::
 
-::::
+::: {.column width="40%"}
+![](images/64f9c8b5b08a8_transicion-democraticaalta-01.png)
+:::
+:::::
+
+## Datos y variables
+
