@@ -131,3 +131,54 @@ Justificación:
 ### Conclusión
 
 La edad no parece constituir un factor relevante para explicar las diferencias en la satisfacción con la democracia en Argentina durante 2023.
+
+## Satisfacción con la democracia según nivel educativo
+
+![](images/grafico-educacion-satisfaccion-1.png)
+
+## Resultado
+
+-   Se observan diferencias en la distribución de la satisfacción con la democracia entre los distintos niveles educativos.
+-   La proporción de personas satisfechas e insatisfechas varía según el nivel de estudios alcanzado.
+-   Esto sugiere que la educación podría estar asociada a distintas formas de evaluar el funcionamiento de la democracia.
+
+Conclusión:El nivel educativo aparece como una variable relevante para comprender las diferencias en la satisfacción con la democracia entre los encuestados.
+
+
+## Regresión logística ordinal
+
+### Variables incluidas:
+-Sexo,Edad, Nivel educativo
+
+### Resultados
+
+- Ninguna de las variables presentó efectos estadísticamente significativos.
+- Los coeficientes observados fueron de baja magnitud.
+- Los efectos identificados no permiten explicar de manera sustantiva las diferencias en la satisfacción con la democracia.
+
+## Conclusión
+
+Las variables sociodemográficas analizadas no muestran una capacidad explicativa relevante sobre la satisfacción con la democracia en Argentina durante 2023.
+
+## Regresión logística binaria
+
+### Variable dependiente
+
+- Satisfecho con la democracia
+- Insatisfecho con la democracia
+
+### Variables predictoras
+
+- Sexo
+- Edad
+- Nivel educativo
+- Aprobación presidencial
+
+## Resultados
+
+- La aprobación presidencial fue el predictor más relevante del modelo.
+- Las variables sociodemográficas presentaron efectos débiles o no significativos.
+- La evaluación del gobierno se asocia con la satisfacción respecto al funcionamiento de la democracia.
+
+### Conclusión
+La satisfacción con la democracia parece estar más relacionada con factores políticos coyunturales que con características sociodemográficas de los encuestados.
