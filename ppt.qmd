@@ -104,7 +104,7 @@ Justificación:
 
 ## Satisfacción con la democracia según sexo
 
-![](images/Captura de pantalla 2026-06-23 134713-01.png)
+![](images/Captura%20de%20pantalla%202026-06-23%20134713-01.png)
 
 ## Resultado
 
@@ -116,7 +116,18 @@ Justificación:
 
 -   χ² = 4,41
 -   gl = 3
--   p = 0,221
-*Conclusión:* No existe asociación estadísticamente significativa entre sexo y satisfacción con la democracia.
+-   p = 0,221 *Conclusión:* No existe asociación estadísticamente significativa entre sexo y satisfacción con la democracia.
 
+## Satisfacción con la democracia según edad
 
+![](images/unnamed-chunk-3-1.png)
+
+## Resultado
+
+-   Las distribuciones de edad son similares entre los distintos niveles de satisfacción.
+-   No se observan diferencias sustantivas en las medianas de edad.
+-   La variabilidad etaria es amplia en todas las categorías.
+
+### Conclusión
+
+La edad no parece constituir un factor relevante para explicar las diferencias en la satisfacción con la democracia en Argentina durante 2023.
