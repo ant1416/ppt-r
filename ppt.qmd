@@ -1,0 +1,28 @@
+---
+title: "Satisfaccion democratica en argentina"
+author: "Antonia Cea y Eva Kennedy"
+format: revealjs
+editor: visual
+---
+
+## Introduccion
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Contexto:
+
+- Creciente polarización política en América Latina.
+- Elección de Javier Milei en Argentina (2023).
+- Cuestionamientos a las instituciones democráticas.
+:::
+
+::: {.column width="50%"}
+Justificación:
+
+- La satisfacción con la democracia permite evaluar la legitimidad percibida del sistema democrático.
+- Analizar diferencias según edad, sexo y nivel educativo.
+- Uso de datos del Latinobarómetro 2023 para el caso argentino.
+:::
+
+::::
