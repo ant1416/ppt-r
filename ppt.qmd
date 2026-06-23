@@ -144,17 +144,17 @@ La edad no parece constituir un factor relevante para explicar las diferencias e
 
 Conclusión:El nivel educativo aparece como una variable relevante para comprender las diferencias en la satisfacción con la democracia entre los encuestados.
 
-
 ## Regresión logística ordinal
 
 ### Variables incluidas:
+
 -Sexo,Edad, Nivel educativo
 
 ### Resultados
 
-- Ninguna de las variables presentó efectos estadísticamente significativos.
-- Los coeficientes observados fueron de baja magnitud.
-- Los efectos identificados no permiten explicar de manera sustantiva las diferencias en la satisfacción con la democracia.
+-   Ninguna de las variables presentó efectos estadísticamente significativos.
+-   Los coeficientes observados fueron de baja magnitud.
+-   Los efectos identificados no permiten explicar de manera sustantiva las diferencias en la satisfacción con la democracia.
 
 ## Conclusión
 
@@ -164,21 +164,57 @@ Las variables sociodemográficas analizadas no muestran una capacidad explicativ
 
 ### Variable dependiente
 
-- Satisfecho con la democracia
-- Insatisfecho con la democracia
+-   Satisfecho con la democracia
+-   Insatisfecho con la democracia
 
 ### Variables predictoras
 
-- Sexo
-- Edad
-- Nivel educativo
-- Aprobación presidencial
+-   Sexo
+-   Edad
+-   Nivel educativo
+-   Aprobación presidencial
 
 ## Resultados
 
-- La aprobación presidencial fue el predictor más relevante del modelo.
-- Las variables sociodemográficas presentaron efectos débiles o no significativos.
-- La evaluación del gobierno se asocia con la satisfacción respecto al funcionamiento de la democracia.
+-   La aprobación presidencial fue el predictor más relevante del modelo.
+-   Las variables sociodemográficas presentaron efectos débiles o no significativos.
+-   La evaluación del gobierno se asocia con la satisfacción respecto al funcionamiento de la democracia.
 
 ### Conclusión
+
 La satisfacción con la democracia parece estar más relacionada con factores políticos coyunturales que con características sociodemográficas de los encuestados.
+
+## Regresión logística binaria: Modelo 2
+
+### Variables incluidas
+
+-   Sexo
+-   Edad
+-   Nivel educativo
+-   Aprobación presidencial
+
+## Resultados principales
+
+-   La aprobación presidencial fue la única variable estadísticamente significativa.
+-   Quienes desaprueban al presidente presentan menores probabilidades de sentirse satisfechos con la democracia.
+-   Sexo, edad y nivel educativo no mostraron efectos significativos.
+
+### Indicadores del modelo
+
+-   AIC = 1347,3
+-   OR desaprobación presidencial = 0,173
+-   p \< 0,001
+
+## Probabilidades predichas
+
+![](images/grafico-probabilidades-predichas-1.png)
+
+## Hallazgos
+
+-   Entre quienes aprueban al presidente, la probabilidad de estar satisfecho con la democracia supera el 65%.
+-   Entre quienes desaprueban al presidente, la probabilidad desciende a valores cercanos al 30%.
+-   Las diferencias entre hombres y mujeres son reducidas.
+
+## Conclusión
+
+La aprobación presidencial constituye el factor más relevante para explicar la satisfacción con la democracia en Argentina durante 2023.
