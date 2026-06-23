@@ -38,8 +38,32 @@ Justificación:
 ![](images/64f9c8b5b08a8_transicion-democraticaalta-01.png)
 :::
 :::::
+## Descripción de la muestra
 
-## Datos y variables
+::::: columns
+::: {.column width="50%"}
+### Características generales
+
+-   **N = 1.174** casos válidos
+-   **Edad promedio:** 42,9 años
+-   **Desv. estándar:** 16,9 años
+-   **Rango:** 18 a 90 años
+:::
+
+::: {.column width="50%"}
+### Composición de la muestra
+
+-   **Mujeres:** 51,8%
+
+-   **Hombres:** 48,2%
+
+-   Nivel educativo promedio: **12,8 puntos**
+
+-   Desv. estándar: **3,2 puntos**
+:::
+:::::
+
+##  variables
 
 ::::: columns
 ::: {.column width="35%"}
@@ -68,30 +92,6 @@ Justificación:
 :::
 :::::
 
-## Descripción de la muestra
-
-::::: columns
-::: {.column width="50%"}
-### Características generales
-
--   **N = 1.174** casos válidos
--   **Edad promedio:** 42,9 años
--   **Desv. estándar:** 16,9 años
--   **Rango:** 18 a 90 años
-:::
-
-::: {.column width="50%"}
-### Composición de la muestra
-
--   **Mujeres:** 51,8%
-
--   **Hombres:** 48,2%
-
--   Nivel educativo promedio: **12,8 puntos**
-
--   Desv. estándar: **3,2 puntos**
-:::
-:::::
 
 ## Satisfacción con la democracia
 
@@ -218,3 +218,7 @@ La satisfacción con la democracia parece estar más relacionada con factores po
 ## Conclusión
 
 La aprobación presidencial constituye el factor más relevante para explicar la satisfacción con la democracia en Argentina durante 2023.
+
+## gracias por su atencion!!
+
+![](images/descarga (20).jpg)
